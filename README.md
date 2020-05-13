@@ -1,5 +1,6 @@
 # **Once upon a time**
 
+![alt text](https://github.com/MikyeRinaldo/Exercice-Cadavre-Exquis-Mikye/blob/master/buug.png)
 
 a web junior met a bug...
 
