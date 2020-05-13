@@ -8,4 +8,8 @@
 
 But a unexpected event occured : the bug..**was fixed**.
 
+---
 
+Fixed, but for **how long**? Won't the *bug* reappear **one day**? *Sooner* than ~~later~~?
+
+---
