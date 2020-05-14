@@ -26,4 +26,7 @@ while (alive) {
     repeat()
 }
 ```
+
 ![Jim en action !](https://media.giphy.com/media/fQZX2aoRC1Tqw/source.gif)
+
+Suite à quoi **Junior dev** resta immobile quelques instants, ébahi par ce discours quelque peu original, mais qui aura eu comme effet de lui rappeler sa tâche première : coder. 
